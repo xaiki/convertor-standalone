@@ -1,3 +1,10 @@
+# convert html to docx, all standalone
+
+this is stil buggy, we're missing some css wraps, and probably the section/paragraph model is a bit too dumb.
+we'll never see font changes, nor background images nor anything fancy.
+
+but you're free to fork and PR =)
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
